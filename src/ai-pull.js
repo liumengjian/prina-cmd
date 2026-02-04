@@ -16,7 +16,7 @@ const CURSOR_DB_PATH = path.join(
 );
 
 // Git 仓库地址
-const AI_REPO_URL = 'https://github.com/liumengjian/ai-skills.git';
+const AI_REPO_URL = 'git@github.com:liumengjian/ai-skills.git';
 // Git 分支
 const AI_REPO_BRANCH = 'main';
 

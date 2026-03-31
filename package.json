@@ -1,6 +1,6 @@
 {
   "name": "prina-cmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prina-cmd命令行工具 - AI配置文件和规则管理",
   "main": "index.js",
   "scripts": {
